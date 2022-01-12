@@ -56,7 +56,7 @@ The Positive coefficients depicts the increase in count for those parameters & N
 ## Acknowledgements
 
 - This project was part of the Graded Assignment from MS ML & AI IIITB & LJMU
-- This project was based on Multiple Linear Regression tutorial in MS by IIITB & LJMU 
+- This project was based on Multiple Linear Regression tutorial in MS ML & AI by IIITB & LJMU 
 
 
 ## Contact
